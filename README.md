@@ -14,6 +14,7 @@ illegal input (input outside of the mandatory enumerated list)
 variant file names don't matter.  mission file names do
 expected files missing (mod_info.json)
 non-unique keys reused by multiple mods (mod incompatibility warning)
+illegal /r carriage return in .ship json
 
 
 user usage
